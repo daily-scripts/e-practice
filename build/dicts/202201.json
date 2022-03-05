@@ -1,0 +1,1079 @@
+[
+  {
+    "name": "detection",
+    "trans": [
+      "n. 侦查，探测；发觉，发现；察觉"
+    ]
+  },
+  {
+    "name": "vulnerability",
+    "trans": [
+      "n. 易损性；弱点"
+    ]
+  },
+  {
+    "name": "optionally",
+    "trans": [
+      "adv. 随意地"
+    ]
+  },
+  {
+    "name": "maintenance",
+    "trans": [
+      "n. 维护，维修；保持；生活费用"
+    ]
+  },
+  {
+    "name": "algorithm",
+    "trans": [
+      "n. [计][数] 算法，运算法则"
+    ]
+  },
+  {
+    "name": "annotation",
+    "trans": [
+      "n. 注释；注解；释文"
+    ]
+  },
+  {
+    "name": "assignment",
+    "trans": [
+      "n. 分配；任务；作业；功课"
+    ]
+  },
+  {
+    "name": "appropriate",
+    "trans": [
+      "adj. 适当的；恰当的；合适的"
+    ]
+  },
+  {
+    "name": "",
+    "trans": [
+      "vt. 占用，拨出`"
+    ]
+  },
+  {
+    "name": "reverse",
+    "trans": [
+      "n. 背面；相反；倒退；失败"
+    ]
+  },
+  {
+    "name": "",
+    "trans": [
+      "adj. 反面的；颠倒的；反身的"
+    ]
+  },
+  {
+    "name": "coordination",
+    "trans": [
+      "n. 协调，调和；对等，同等"
+    ]
+  },
+  {
+    "name": "evaluatio",
+    "trans": [
+      "n. 评估 规范化 过程"
+    ]
+  },
+  {
+    "name": "empower",
+    "trans": [
+      "vt. 授权，允许；使能够"
+    ]
+  },
+  {
+    "name": "manipulate",
+    "trans": [
+      "vt. 操纵；操作；巧妙地处理；篡改"
+    ]
+  },
+  {
+    "name": "parallel",
+    "trans": [
+      "n. 平行线；对比"
+    ]
+  },
+  {
+    "name": "",
+    "trans": [
+      "adj. 平行的；类似的，相同的"
+    ]
+  },
+  {
+    "name": "matrix",
+    "trans": [
+      "n. [数] 矩阵；模型；[生物][地质] 基质；母体；子宫；[地质] 脉石"
+    ]
+  },
+  {
+    "name": "eliminates",
+    "trans": [
+      "n. 消除"
+    ]
+  },
+  {
+    "name": "sophisticated",
+    "trans": [
+      "adj. 复杂的；精致的；久经世故的；富有经验的"
+    ]
+  },
+  {
+    "name": "",
+    "trans": [
+      "v. 使变得世故；使迷惑；"
+    ]
+  },
+  {
+    "name": "phenomenal",
+    "trans": [
+      "adj. 现象的；显著的；异常的；能知觉的；惊人的，非凡的"
+    ]
+  },
+  {
+    "name": "traversals",
+    "trans": [
+      "n. [计] 遍历；横越；横断物"
+    ]
+  },
+  {
+    "name": "obsessed",
+    "trans": [
+      "v. 着迷（obsess的过去式）；纠缠"
+    ]
+  },
+  {
+    "name": "",
+    "trans": [
+      "adj. 着迷的；无法摆脱的"
+    ]
+  },
+  {
+    "name": "appropriate",
+    "trans": [
+      "适合是，适当的"
+    ]
+  },
+  {
+    "name": "coordination",
+    "trans": [
+      "协调，调和，平等"
+    ]
+  },
+  {
+    "name": "evaluatio",
+    "trans": [
+      "评估，规范化"
+    ]
+  },
+  {
+    "name": "sophisticated",
+    "trans": [
+      "复杂的"
+    ]
+  },
+  {
+    "name": "compliance",
+    "trans": [
+      "顺从"
+    ]
+  },
+  {
+    "name": "glossary",
+    "trans": [
+      "术语表"
+    ]
+  },
+  {
+    "name": "escapes",
+    "trans": [
+      "转义符"
+    ]
+  },
+  {
+    "name": "omitted",
+    "trans": [
+      "遗漏，省略"
+    ]
+  },
+  {
+    "name": "mutable",
+    "trans": [
+      "adj. 易变的，不定的"
+    ]
+  },
+  {
+    "name": "accordingly",
+    "trans": [
+      "adv. 因此，于是"
+    ]
+  },
+  {
+    "name": "literals",
+    "trans": [
+      "n. 字面值；"
+    ]
+  },
+  {
+    "name": "implicit",
+    "trans": [
+      "隐式的"
+    ]
+  },
+  {
+    "name": "innovations",
+    "trans": [
+      "n. 创新（innovation的复数）；改革"
+    ]
+  },
+  {
+    "name": "validator",
+    "trans": [
+      "n. 验证器；验证程序"
+    ]
+  },
+  {
+    "name": "evaluation",
+    "trans": [
+      "n. 评价；[审计] 评估；估价；求值"
+    ]
+  },
+  {
+    "name": "coordination",
+    "trans": [
+      "n. 协调，调和；对等，同等"
+    ]
+  },
+  {
+    "name": "promiscuous",
+    "trans": [
+      "adj. 混杂的；杂乱的"
+    ]
+  },
+  {
+    "name": "",
+    "trans": [
+      "adv. 偶然地；胡乱地"
+    ]
+  },
+  {
+    "name": "scenarios",
+    "trans": [
+      "n. 情节；脚本；情景介绍（scenario的复数"
+    ]
+  },
+  {
+    "name": "earlier",
+    "trans": [
+      "adj. 早的；初期的 （early的比较级）"
+    ]
+  },
+  {
+    "name": "",
+    "trans": [
+      "adv. 早地；早先的时候"
+    ]
+  },
+  {
+    "name": "dialup",
+    "trans": [
+      "n. 拨电话号码"
+    ]
+  },
+
+  {
+    "name": "preservation",
+    "trans": [
+      "n. 保护，维护；保留，维持"
+    ]
+  },
+  {
+    "name": "redundant",
+    "trans": [
+      "adj. 被解雇的，被裁员的；多余的，累赘的；"
+    ]
+  },
+  {
+    "name": "conversion",
+    "trans": [
+      "n. 转变，转换；   "
+    ]
+  },
+  {
+    "name": "restoration",
+    "trans": [
+      "n. （对艺术品、建筑等的）修复；"
+    ]
+  },
+  {
+    "name": "dimming",
+    "trans": [
+      "n. 调光；变暗 "
+    ]
+  },
+  {
+    "name": "relieve",
+    "trans": [
+      "vt. 解除，减轻；"
+    ]
+  },
+  {
+    "name": "transparency",
+    "trans": [
+      "n. 透明，透明性；幻灯片"
+    ]
+  },
+  {
+    "name": "insurance",
+    "trans": [
+      "n.预防措施"
+    ]
+  },
+  {
+    "name": "accessories",
+    "trans": [
+      "n. 附件（accessory 的复数形式）"
+    ]
+  },
+  {
+    "name": "september",
+    "trans": [
+      "n. 九月"
+    ]
+  },
+  {
+    "name": "equipment",
+    "trans": [
+      "n. 设备，用具；"
+    ]
+  },
+  {
+    "name": "committee",
+    "trans": [
+      "n. 委员会；"
+    ]
+  },
+  {
+    "name": "washington",
+    "trans": [
+      "n. 华盛顿"
+    ]
+  },
+  {
+    "name": "california",
+    "trans": [
+      "n. 加利福尼亚"
+    ]
+  },
+  {
+    "name": "companies",
+    "trans": [
+      "n. 公司，企业；"
+    ]
+  },
+  {
+    "name": "president",
+    "trans": [
+      "n. 总统，国家主席；"
+    ]
+  },
+  {
+    "name": "australia",
+    "trans": [
+      "n. 澳大利亚，"
+    ]
+  },
+  {
+    "name": "entertainment",
+    "trans": [
+      "n. 娱乐，娱乐表演；"
+    ]
+  },
+  {
+    "name": "marketing",
+    "trans": [
+      "n. 促销，营销"
+    ]
+  },
+  {
+    "name": "electronics",
+    "trans": [
+      "n. 电子学；"
+    ]
+  },
+  {
+    "name": "treatment",
+    "trans": [
+      "n. 对待，待遇；处理，讨论"
+    ]
+  },
+  {
+    "name": "commission",
+    "trans": [
+      "n. 考察团，委员会；佣金，回扣；"
+    ]
+  },
+  {
+    "name": "corporate",
+    "trans": [
+      "adj. 公司的；法人的；共同的，全体的"
+    ]
+  },
+  {
+    "name": "materials",
+    "trans": [
+      "n. 材料；布料；原料；"
+    ]
+  },
+  {
+    "name": "political",
+    "trans": [
+      "adj. 政治（上）的，政府的；"
+    ]
+  },
+  {
+    "name": "institute",
+    "trans": [
+      "n. 研究所，学院，协会；"
+    ]
+  },
+  {
+    "name": "sponsored",
+    "trans": [
+      "v. 赞助（活动、节目等）；"
+    ]
+  },
+  {
+    "name": "corporation",
+    "trans": [
+      "n. 社团，公司，法人（团体）；"
+    ]
+  },
+  {
+    "name": "crucial",
+    "trans": [
+      "adj. 至关重要的，决定性的；"
+    ]
+  },
+  {
+    "name": "dedicated",
+    "trans": [
+      "vt. 致力于，献身于；"
+    ]
+  },
+  {
+    "name": "ephemeral",
+    "trans": [
+      "adj. 短暂的；"
+    ]
+  },
+  {
+    "name": "granular",
+    "trans": [
+      "adj. 颗粒的；粒状的"
+    ]
+  },
+  {
+    "name": "incentive",
+    "trans": [
+      "n. 激励，刺激"
+    ]
+  },
+  {
+    "name": "intermittent",
+    "trans": [
+      "adj. 间歇的，断断续续的"
+    ]
+  },
+  {
+    "name": "intrusive",
+    "trans": [
+      "adj. 侵入的；打扰的"
+    ]
+  },
+  {
+    "name": "miscellaneous",
+    "trans": [
+      "adj. 混杂的，各种各样的"
+    ]
+  },
+  {
+    "name": "respective",
+    "trans": [
+      "adj. 分别的，各自的"
+    ]
+  },
+  {
+    "name": "sophisticated",
+    "trans": [
+      "adj. 见多识广的，老练的，"
+    ]
+  },
+  {
+    "name": "subsequent",
+    "trans": [
+      "adj. 随后的，接着的；"
+    ]
+  },
+  {
+    "name": "substantial",
+    "trans": [
+      "adj. 大量的，价值巨大的"
+    ]
+  },
+  {
+    "name": "thrilled",
+    "trans": [
+      "adj. 非常兴奋，极为激动"
+    ]
+  },
+  {
+    "name": "synchronous",
+    "trans": [
+      "adj. 同步的；同时的"
+    ]
+  },
+  {
+    "name": "sustainable",
+    "trans": [
+      "adj. （计划、方法、体制）可持续的，持续性的；"
+    ]
+  },
+  {
+    "name": "mutate",
+    "trans": [
+      "vi. 变化，产生突变"
+    ]
+  },
+  {
+    "name": "traversal",
+    "trans": [
+      "n. [计] 遍历；横越；"
+    ]
+  },
+  {
+    "name": "hierarchy",
+    "trans": [
+      "n. 等级制度；统治集团；"
+    ]
+  },
+  {
+    "name": "feasible",
+    "trans": [
+      "adj. 可行的，办得到的；"
+    ]
+  },
+  {
+    "name": "semantics",
+    "trans": [
+      "n. [语] 语义学；语义论"
+    ]
+  },
+  {
+    "name": "sophisticated",
+    "trans": [
+      "adj. 见多识广的，老练的，"
+    ]
+  },
+  {
+    "name": "constrain",
+    "trans": [
+      "v. 限制，约束；强迫，迫使"
+    ]
+  },
+  {
+    "name": "sophisticated",
+    "trans": [
+      "adj. 见多识广的，老练的，"
+    ]
+  },
+  {
+    "name": "outlines",
+    "trans": [
+      "n. 轮廓；概要"
+    ]
+  },
+  {
+    "name": "deciding",
+    "trans": [
+      "adj. 决定性的；无疑的"
+    ]
+  },
+  {
+    "name": "considerations",
+    "trans": [
+      "n. 考虑；注意事项"
+    ]
+  },
+  {
+    "name": "resilient",
+    "trans": [
+      "adj. 弹回的，有弹力的；"
+    ]
+  },
+  {
+    "name": "consensus",
+    "trans": [
+      "n. 一致看法，共识"
+    ]
+  },
+  {
+    "name": "permanent",
+    "trans": [
+      "adj. 永久的，永恒的；不变的"
+    ]
+  },
+  {
+    "name": "increased",
+    "trans": [
+      "adj. 增强的"
+    ]
+  },
+  {
+    "name": "relieve",
+    "trans": [
+      "vt. 解除，减轻"
+    ]
+  },
+  {
+    "name": "dramatically",
+    "trans": [
+      "adv. 显著地，剧烈地；"
+    ]
+  },
+  {
+    "name": "distinguish",
+    "trans": [
+      "v. 使有别于；看清"
+    ]
+  },
+  {
+    "name": "whole",
+    "trans": [
+      "adj. 全部的，整个的；"
+    ]
+  },
+  {
+    "name": "coalesce",
+    "trans": [
+      "v. <正式>合并，联合"
+    ]
+  },
+  {
+    "name": "corresponding",
+    "trans": [
+      "adj. 相应的，相关的"
+    ]
+  },
+  {
+    "name": "expressions",
+    "trans": [
+      "n. [数]表达式；表情；公式；"
+    ]
+  },
+  {
+    "name": "distinct",
+    "trans": [
+      "adj. 不同的，有区别的；"
+    ]
+  },
+  {
+    "name": "represent",
+    "trans": [
+      "v. 代表；为……代言（辩护）；"
+    ]
+  },
+  {
+    "name": "newest",
+    "trans": [
+      "最新"
+    ]
+  },
+  {
+    "name": "mandatory",
+    "trans": [
+      "adj. 强制性的，义务的；"
+    ]
+  },
+  {
+    "name": "concise",
+    "trans": [
+      "adj. 简明的，简洁的"
+    ]
+  },
+  {
+    "name": "interpolation",
+    "trans": [
+      "n. 插入；篡改；填写；插值"
+    ]
+  },
+  {
+    "name": "generally",
+    "trans": [
+      "adv. 笼统地，大概；通常，普遍地"
+    ]
+  },
+  {
+    "name": "provisioning",
+    "trans": [
+      "n. 准备金提取"
+    ]
+  },
+  {
+    "name": "mitigate",
+    "trans": [
+      "v. <正式>减轻，缓和"
+    ]
+  },
+  {
+    "name": "reverting",
+    "trans": [
+      "v. 重新提到；回复"
+    ]
+  },
+  {
+    "name": "drift",
+    "trans": [
+      "v. 飘移，漂流；"
+    ]
+  },
+  {
+    "name": "posture",
+    "trans": [
+      "n. （坐或立的）姿势；态度，立场"
+    ]
+  },
+  {
+    "name": "seamlessly",
+    "trans": [
+      "adv. 无缝地"
+    ]
+  },
+
+  {
+    "name": "intuitive",
+    "trans": [
+      "adj. 直觉的；凭直觉获知的 "
+    ]
+  },
+  {
+    "name": "centralized",
+    "trans": [
+      "adj. 集中的；中央集权的  "
+    ]
+  },
+  {
+    "name": "spits",
+    "trans": [
+      "智能交通系统战略平台 ; 繁忙时间 ; 尖角"
+    ]
+  },
+  {
+    "name": "dramatically",
+    "trans": [
+      "adv. 显著地，剧烈地；戏剧地；引人注目地 "
+    ]
+  },
+  {
+    "name": "persistent",
+    "trans": [
+      "adj. 执着的，坚持不懈的"
+    ]
+  },
+  {
+    "name": "relieve",
+    "trans": [
+      "vt. 解除，减轻；"
+    ]
+  },
+  {
+    "name": "increased",
+    "trans": [
+      "adj. 增强的"
+    ]
+  },
+  {
+    "name": "permanent",
+    "trans": [
+      "adj. 永久的，永恒的；不变的 "
+    ]
+  },
+  {
+    "name": "consensus",
+    "trans": [
+      "n. 一致看法，共识 "
+    ]
+  },
+  {
+    "name": "resilient",
+    "trans": [
+      "adj. 弹回的，有弹力的；"
+    ]
+  },
+  {
+    "name": "considerations",
+    "trans": [
+      "n. 考虑；注意事项"
+    ]
+  },
+  {
+    "name": "deciding",
+    "trans": [
+      "v. 决定；裁决"
+    ]
+  },
+  {
+    "name": "constrain",
+    "trans": [
+      "v. 限制，约束"
+    ]
+  },
+  {
+    "name": "unstable",
+    "trans": [
+      "adj. 不稳定的；"
+    ]
+  },
+  {
+    "name": "stabilized",
+    "trans": [
+      "adj. 稳定的；减摇的 "
+    ]
+  },
+  {
+    "name": "semantics",
+    "trans": [
+      "n. [语] 语义学；语义论 "
+    ]
+  },
+  {
+    "name": "feasible",
+    "trans": [
+      "adj. 可行的，办得到的；"
+    ]
+  },
+  {
+    "name": "hierarchy",
+    "trans": [
+      "n. 等级制度；统治集团；"
+    ]
+  },
+  {
+    "name": "traversal",
+    "trans": [
+      "n. [计] 遍历；横越；"
+    ]
+  },
+  {
+    "name": "mutate",
+    "trans": [
+      "vi. 变化，产生突变"
+    ]
+  },
+  {
+    "name": "preservation",
+    "trans": [
+      "n. 保护，维护；保留，维持"
+    ]
+  },
+  {
+    "name": "redundant",
+    "trans": [
+      "adj. \u003c英\u003e 被解雇的，被裁员的；多余的，累赘的；"
+    ]
+  },
+  {
+    "name": "conversion",
+    "trans": [
+      "n. 转变，转换；   "
+    ]
+  },
+  {
+    "name": "restoration",
+    "trans": [
+      "n. （对艺术品、建筑等的）修复；"
+    ]
+  },
+  {
+    "name": "dimming",
+    "trans": [
+      "n. 调光；变暗 "
+    ]
+  },
+  {
+    "name": "relieve",
+    "trans": [
+      "vt. 解除，减轻；"
+    ]
+  },
+  {
+    "name": "transparency",
+    "trans": [
+      "n. 透明，透明性；幻灯片"
+    ]
+  },
+  {
+    "name": "insurance",
+    "trans": [
+      "n.预防措施"
+    ]
+  },
+  {
+    "name": "accessories",
+    "trans": [
+      "n. 附件（accessory 的复数形式）"
+    ]
+  },
+  {
+    "name": "september",
+    "trans": [
+      "n. 九月"
+    ]
+  },
+  {
+    "name": "equipment",
+    "trans": [
+      "n. 设备，用具；"
+    ]
+  },
+  {
+    "name": "committee",
+    "trans": [
+      "n. 委员会；"
+    ]
+  },
+  {
+    "name": "washington",
+    "trans": [
+      "n. 华盛顿"
+    ]
+  },
+  {
+    "name": "california",
+    "trans": [
+      "n. 加利福尼亚"
+    ]
+  },
+  {
+    "name": "companies",
+    "trans": [
+      "n. 公司，企业；"
+    ]
+  },
+  {
+    "name": "president",
+    "trans": [
+      "n. 总统，国家主席；"
+    ]
+  },
+  {
+    "name": "australia",
+    "trans": [
+      "n. 澳大利亚，"
+    ]
+  },
+  {
+    "name": "entertainment",
+    "trans": [
+      "n. 娱乐，娱乐表演；"
+    ]
+  },
+  {
+    "name": "marketing",
+    "trans": [
+      "n. 促销，营销"
+    ]
+  },
+  {
+    "name": "electronics",
+    "trans": [
+      "n. 电子学；"
+    ]
+  },
+  {
+    "name": "detects",
+    "trans": [
+      "v. 发现"
+    ]
+  },
+  {
+    "name": "emitted",
+    "trans": [
+      "adj. 射出的"
+    ]
+  },
+  {
+    "name": "hence",
+    "trans": [
+      "adv. 因此；之后"
+    ]
+  },
+  {
+    "name": "encountered",
+    "trans": [
+      "v. 遇到；曾遭遇"
+    ]
+  },
+  {
+    "name": "respectively",
+    "trans": [
+      "adv. 分别地，依次地"
+    ]
+  },
+  {
+    "name": "enhancement",
+    "trans": [
+      "n. 增加，增强，改善"
+    ]
+  },
+  {
+    "name": "manipulate",
+    "trans": [
+      "v. 操纵，摆布"
+    ]
+  },
+  {
+    "name": "arithmetic",
+    "trans": [
+      "n. 算术；演算"
+    ]
+  },
+  {
+    "name": "fairly",
+    "trans": [
+      "adv. 相当地，颇；公平地"
+    ]
+  },
+  {
+    "name": "practitioner",
+    "trans": [
+      "n.从业人员，执业者；"
+    ]
+  },
+  {
+    "name": "concat",
+    "trans": [
+      "n. 合并多个数组；"
+    ]
+  },
+  {
+    "name": "flatten",
+    "trans": [
+      "v. （使）变平；"
+    ]
+  },
+  {
+    "name": "repetition",
+    "trans": [
+      "n. 重复，重说，重做；"
+    ]
+  },
+  {
+    "name": "reasonable",
+    "trans": [
+      "adj. 有道理的，合情理的；"
+    ]
+  }
+
+]

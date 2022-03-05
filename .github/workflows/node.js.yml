@@ -26,6 +26,5 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    - run: pwd
-    - run: ls -l
+    - run: yarn build
     - run: mv docs docsbak && mv ./build ./docs

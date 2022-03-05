@@ -24,10 +24,5 @@ jobs:
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v2
     - run: yarn build
-    - run: mv docs docsbak && mv ./build ./docs
-
-
-    - name: Deploy
-    - uses: peaceiris/actions-gh-pages@v3
-        publish_dir: ./docs-dist
-
+    - run: mv docs docsbak && mv ./build ./docs && cp -r ./docs /docs
+    - run: ls /docs
